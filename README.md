@@ -6,3 +6,9 @@ Web-based image classifier using a CNN trained on the CIFAR-10 dataset, implemen
 pip install flask numpy tensorflow Pillow
 
 ```
+## How It Works
+![](images/results_cat.png)
+
+Input Photos
+![](images/cat_pic.png)
+![](images/frog.png)
