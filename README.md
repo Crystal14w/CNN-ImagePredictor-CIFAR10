@@ -7,8 +7,8 @@ pip install flask numpy tensorflow Pillow
 
 ```
 ## How It Works
-![](images/results_cat.png)
+![](images/results_cat.jpeg)
 
 Input Photos
-![](images/cat_pic.png)
-![](images/frog.png)
+![](images/cat_pic.jpeg)
+![](images/frog.jpeg)
