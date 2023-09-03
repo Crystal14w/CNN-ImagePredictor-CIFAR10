@@ -9,7 +9,6 @@ This project provides a web-based image classifier application, leveraging a Con
 ## Installation & Setup
 ```
 pip install flask numpy tensorflow Pillow
-
 ```
 ## Model Training
 - The CNN model is trained on the CIFAR-10 dataset using TensorFlow.
@@ -21,7 +20,6 @@ pip install flask numpy tensorflow Pillow
 1. Run the Flask application:
 ```
 python app.py
-
 ```
 2. Open a web browser and navigate to http://127.0.0.1:5000/.
 3. Use the interface to upload and classify images based on the CIFAR-10 dataset categories.
