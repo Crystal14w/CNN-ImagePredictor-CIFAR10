@@ -14,6 +14,8 @@ pip install flask numpy tensorflow Pillow
 ## Model Training
 - The CNN model is trained on the CIFAR-10 dataset using TensorFlow.
 - The trained model is saved as cifar10_model.h5 for inferencing in the web application.
+- The current CNN model used in this application has an accuracy of approximately 82% on the CIFAR-10 test dataset.
+
 
 ## Usage
 1. Run the Flask application:
